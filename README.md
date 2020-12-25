@@ -4,10 +4,10 @@ In this repository, I have provided the completed code for C++ as well as Python
 I am including the readme of both the packages below
 ***
 # C++ package readme -
-[a relative link](/fellowship-cpp/cpp/README.md)
+[C++ README](/fellowship-cpp/cpp/README.md)
 ***
 ***
 # Python package readme -
-[a relative link](/fellowship-python/python/README.md)
+[Python README](/fellowship-python/python/README.md)
 ***
 ***
